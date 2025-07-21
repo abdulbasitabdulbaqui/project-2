@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+    padding: 50px 330px;
+    
+}
+h1{
+    margin: 0px;
+   background-color: bisque;
+   text-align: center;
+}
+#textbox{
+    border-color: black;
+    width: 99.3%;
+    font-size: large;
+}
+#para{
+    text-align: center;
+    font-size: larger;
+    background-color: bisque;
+    margin-top: 0px;
+}
